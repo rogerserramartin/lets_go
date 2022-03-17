@@ -11,3 +11,4 @@
 
 ## important stuff
 <p>Package main must include a main() func, and when compiled, will create a .exe file</p> 
+<p>Files in the same package do not have to be imported into each other.</p>
