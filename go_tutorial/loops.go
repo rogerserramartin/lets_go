@@ -20,6 +20,7 @@ func main(){
 		fmt.Println(characters[i])
 	}
 	getEvens()
+
 }
 
 func getNumbers() {

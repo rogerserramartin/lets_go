@@ -36,4 +36,6 @@ func main(){
 	fmt.Println(s1, s2, s3)
 
 	// basic types: bool, string, int, float64
+
+	type figure[]string
 }
