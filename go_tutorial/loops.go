@@ -10,6 +10,8 @@ import (
 )
 */
 
+type figures[]string
+
 func main(){
 	// slice is the same as array
 	getNumbers()
